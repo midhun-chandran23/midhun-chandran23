@@ -8,7 +8,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/comrademc23" target="blank"><img src="https://img.shields.io/twitter/follow/comrademc23?logo=twitter&style=for-the-badge" alt="commrademc23" /></a> </p>
+<p align="left"> <a href="https://www.instagram.com/comrade_mc" target="blank"><img src="https://img.shields.io/twitter/follow/comrademc?logo=twitter&style=for-the-badge" alt="commrademc23" /></a> </p>
 
 - 🔭 Hi I'm currently work as **MERN STACK INTERN**
 
