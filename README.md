@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **MERN,Next.js,Javascript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/comrademc](https://github.com/midhun-chandran23)
+- 👨‍💻 All of my projects are available at [https://github.com/midhun-chandran23](https://github.com/midhun-chandran23)
 
 - 📫 How to reach me **midhun233332@gmail.com**
 
